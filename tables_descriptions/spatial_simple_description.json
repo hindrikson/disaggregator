@@ -1,0 +1,503 @@
+{
+    "1": {
+        "title": "Population Statistics (German Districts)",
+        "description": "Number of inhabitants as of 31.12. of the respective year at district level; Regionalstatistik Tabelle 12411-01-01-4"
+    },
+    "2": {
+        "title": "Electricity Consumption by Private Households (Germany)",
+        "description": "BMWi-Energiedaten (2017), Table 21, Electricity use in the consumer group 'Households'.  (Data for the year 2016, 2017, 2018 according to AGEB)"
+    },
+    "3": {
+        "title": "Electricity Consumption per Capita (Germany)",
+        "description": "Electricity Consumption per Capita (Germany) based on BMWi-Energiedaten and Population Statistics (1997-2017)"
+    },
+    "4": {
+        "title": "Electricity consumption of private households per country. ",
+        "description": "Electricity consumption of private households per country. Calculated from electricity consumption per capita (Germany)"
+    },
+    "5": {
+        "title": "Heating Structure (German Districts)",
+        "description": "Heating structures at district level per residential unit (2018). "
+    },
+    "6": {
+        "title": "Economic Development: Cross Value Added (Germany)",
+        "description": "Netzentwicklungsplan 2030 (2017): Table 27: Price-adjusted gross value in Germany. Years: 2012, 2020, 2030, 2040, 2050"
+    },
+    "7": {
+        "title": "Economic Development: Cross Domestic Product (Germany)",
+        "description": "Netzentwicklungsplan 2030 (2017): Table 27: Price-adjusted gross domestic product in Germany. Years: 2012, 2020, 2030, 2040, 2050"
+    },
+    "8": {
+        "title": "Demographic Development: Population (Germany)",
+        "description": "Netzentwicklungsplan 2030 (2017): Table 26: Development of the total population, based on the 13th coordinated population projection - Variant 2. Years: 2012, 2020, 2030, 2040, 2050"
+    },
+    "9": {
+        "title": "Net Electricity Consumption (NEP B2030 (2017), including grid losses, excluding heat pumps and electric vehicles) (Germany)",
+        "description": "Netzentwicklungsplan 2030 (2017): Table 22: Net Electricity Consumption (NEP B2030 (2017), including grid losses, excluding heat pumps and electric road vehicles). Years: 2008,2013,2015,2030"
+    },
+    "11": {
+        "title": [
+            "Arbeitsmarktprognose 2030 - Eine strategische Vorausschauf auf die Entwicklung von Angebot und Nachfrage in Deutschland",
+            "Employment forecast 2030 - A strategic forecast of the development of supply and demand in Germany"
+        ],
+        "description": "Number of employees (2010, 2020, 2030)"
+    },
+    "12": {
+        "title": [
+            "Wohnfläche nach Heizstruktur, Gebäudetyp, Baualter (Landkreise). ",
+            "Living space according to heating structure, building type, building age (district)"
+        ],
+        "description": [
+            "Wohnfläche nach Heizstruktur, Gebäudetyp, Baualter. \nBerechnung basiert auf: \n- Wohnfläche nach Regionalstatistik\n- Gebäudebestand (Baualter) nach Zensus + Fortschreibung (FfE) bis 2018\n- Mikrozensus 2016 (Datenbasis 2014)\n- Recherche zu Wärmepumpen (VNB und Bundesverband Wärmepumpen) und Nachtspeicherheizungen (Mikrozensus Zusatzerhebung 2014, Abfragae bei VNB, eigene Annahmen zur Fortschreibung)",
+            "Living space according to heating structure, type of building, age of construction. \nCalculation based on:\n- Living space according to regional statistics\n- Building stock (age of construction) according to census + forecast until 2018 (FfE)\n- Microcensus 2016 (database 2014)\n- Research on heat pumps (DSO and 'Bundesverband Wärmepumpen') and electric storage heating (Microcensus Supplementary Survey 2014, query at DSO, own assumptions (forecast))"
+        ]
+    },
+    "13": {
+        "title": "Energy consumption per houshold size and year",
+        "description": [
+            "Stromverbrauch je Haushalt nach Haushaltsgröße. Datenbasis EnergieAgentur.NRW",
+            "Electricity consumption per household according to household size. Database EnergyAgency.NRW"
+        ]
+    },
+    "14": {
+        "title": [
+            "Anzahl Haushalte nach Haushaltsgröße",
+            "Number of households by household size"
+        ],
+        "description": "Number of private households by size of household in persons (from 1 to 6 and more persons) (2011)."
+    },
+    "15": {
+        "title": [
+            "Jahreserhebung über die Energieverwendung im Verarbeitenden Gewerbe sowie im Bergbau und in der Gewinnung von Steinen und Erden (Landkreise)",
+            "Energy consumption by manufacturing, mining and quarrying industries (German Districts)"
+        ],
+        "description": "Energy consumption by manufacturing, mining and quarrying industries as of 31.12. of the respective year at district level. Synthesis of missing data."
+    },
+    "16": {
+        "title": [
+            "Energetischer und nicht-energetischer Einsatz von Brennstoffen in der Industrie",
+            "Energetic and non-energetic use of fuels in industry"
+        ],
+        "description": "Energetic and non-energetic use of fuels in the manufacturing, mining and quarrying industries. \n Data is based on: \n - 2012+2015: Regional statistics Table 060-41-4: Use of energy by manufacturing, mining and quarrying enterprises - annual totals - regional depth: districts and rural cities \n - 2014: Survey on the use of energy by manufacturing, mining and quarrying enterprises - Table 2: Energy consumption by energy source, Germany, reporting period: 2014 in: available on request. Wiesbaden: Federal Statistical Office (Destatis), 2015"
+    },
+    "17": {
+        "title": [
+            "Sozialversicherungspflichtig Beschäftigte nach Wirtschaftsabteilungen",
+            "Employees by economic sectors"
+        ],
+        "description": "Employees (subject to social insurance contributions) by economic sectors (WZ 2008). Spatial resolution: current german districts (place of work). Time series: Years 2008 to 2018, as of 30 June and 30 September © Statistics of the Federal Employment Agency"
+    },
+    "18": {
+        "title": [
+            "Synthese: Sozialversicherungspflichtig Beschäftigte nach Wirtschaftsabteilungen. ",
+            "Synthesis: Employees by WZ2008"
+        ],
+        "description": "Employees (subject to social insurance contributions) by economic sectors (WZ 2008). Spatial resolution: current german districts (place of work). Time series: Years 2008 to 2018, as of 30 June and 30 September. Anonymized data has been generated by historical data and district-sum or WZ-sum.© Statistics of the Federal Employment Agency"
+    },
+    "19": {
+        "title": [
+            "Sozialversicherungspflichtig Beschäftigte nach Wirtschaftszweigen, Szenario Basis",
+            "Forecast of employees by economic sectors, scenario Basis. FfE: regional distribution per district "
+        ],
+        "description": "Forecast of employees per district (2014..2030), scenario 'Basis'; based on the BMAS study: 'Arbeitsmarkt 2030 - Wirtschaft und Arbeitsmarkt im digitalen Zeitalter'"
+    },
+    "20": {
+        "title": [
+            "Sozialversicherungspflichtig Beschäftigte nach Wirtschaftszweigen, Szenario Digitalisierung",
+            "Forecast of employees by economic sectors, scenario digitalisation. FfE: regional distribution per district. "
+        ],
+        "description": "Forecast of employees per district (2014..2030), scenario 'Digitalisation'; based on the BMAS study: 'Arbeitsmarkt 2030 - Wirtschaft und Arbeitsmarkt im digitalen Zeitalter'"
+    },
+    "21": {
+        "title": [
+            "Stromverbrauch der Industrie je Wirtschaftszweig (WZ2008)",
+            "Industrial electricity consumption per economic sector (WZ2008)"
+        ],
+        "description": [
+            "Erhebung über die Energieverwendung der Betriebe des Verarb. Gewerbes sowie des Bergbaus und der Gewinnung von Steinen und Erden; Tabelle 2: Energieverbrauch nach Energieträgern: Stromverbrauch je Wirtschaftszweig (WZ2008)",
+            "Survey on the use of energy in manufacturing, mining and quarrying; Table 2: Energy consumption by energy source: electricity consumption per economic sector (WZ2008)"
+        ]
+    },
+    "22": {
+        "title": [
+            "Industrielle Stromerzeugung",
+            "Industrial power generation"
+        ],
+        "description": [
+            "Fachserie 4 / Reihe 6.4: Stromerzeugungsanlagen der Betriebe im Bergbau und im Verarbeitenden Gewerbe",
+            "Fachserie 4 / Reihe 6.4: Power generation plants of mining and industry"
+        ]
+    },
+    "23": {
+        "title": [
+            "Industrielle Stromerzeugung (Synthese: alle WZ)",
+            "Industrial power generation (synthesis: all economic sectors)"
+        ],
+        "description": [
+            "Daten basieren auf der Fachserie 4 / Reihe 6.4: Stromerzeugungsanlagen der Betriebe im Bergbau und im Verarbeitenden Gewerbe. Fehlende WZ wurden über den Energieverbrauch (id_spatial=24) und der Summe je WZ-Gruppe (B bzw. C) berechnet.",
+            "Data based on: Fachserie 4 / Reihe 6.4: Power generation plants of mining and industry. Values for missing economic sectors were calculated using the energy consumption (id_spatial=24) and the sum per economic group (B or C). "
+        ]
+    },
+    "24": {
+        "title": [
+            "Synthese: Stromverbrauch der Industrie je Wirtschaftszweig (WZ2008)",
+            "Synthesis: Industrial electricity consumption per economic sector (WZ2008)"
+        ],
+        "description": [
+            "Synthese von fehlenden Werten für: Erhebung über die Energieverwendung der Betriebe des Verarb. Gewerbes sowie des Bergbaus und der Gewinnung von Steinen und Erden; Tabelle 2: Energieverbrauch nach Energieträgern: Stromverbrauch je Wirtschaftszweig (WZ2008). Synthese basiert auf Summe Stromverbrauch und historischen Werten. ",
+            "Synthesis of missing data for: Survey on the use of energy in manufacturing, mining and quarrying; Table 2: Energy consumption by energy source: electricity consumption per economic sector (WZ2008). Synthesis based on total electricity consumption and historical values"
+        ]
+    },
+    "25": {
+        "title": [
+            "Stromverbrauch (Verbrauch, Netzbezug, Eigenerzeugung) in der Industrie je LK und WZ",
+            "Industrial electricity consumption per district and economic sector (WZ2008)"
+        ],
+        "description": [
+            "Berechnung des Stromverbrauchs in der Industrie je Landkreis und Wirtschaftszweig. Berechnung basiert auf den spezifischen Verbrauchswerten aus id_spatial in (18,23)",
+            "Calculation of electricity consumption in industry per district and economic sector. Calculation based on the specific consumption values from id_spatial in (23,53)"
+        ]
+    },
+    "26": {
+        "title": [
+            "Raumordnungsprognose 2035 - Bevölkerungsprognose",
+            "Population Forecast 2035"
+        ],
+        "description": [
+            "Raumordnungsprognose 2035 - Tabellen zur Bevölkerungsprognose - Bevölkerung insgesamt",
+            "Population forecast - Total population"
+        ]
+    },
+    "27": {
+        "title": [
+            "Synthese: Soz. Beschäftigte je LK nach WZ und Jahr (alle Jahre von 2012 bis 2035), Szenario Basis",
+            "Synthesis: Social employees per District and economic sector (WZ2008) and year (all years from 2012 to 2035), scenario Basis"
+        ],
+        "description": [
+            "Synthese: Sozialversicherungspflichtig Beschäftigte je Landkreis differenziert nach Wirtschaftszweig für die Jahre 2012 bis 2035, Szenario Basis. Berechnung basiert auf den Beschäftigten nach id_spatial = 19 und der Entwicklung der Einwohnerzahl nach id_spatial = 26 um alle Jahre von 2012 bis 2035 abbilden zu können. ",
+            "Synthesis: Employees per district by economic sector for all years from 2012 to 2035, scenario basis. Calculation based on employees according to id_spatial = 19 and the development of the population according to id_spatial = 26"
+        ]
+    },
+    "28": {
+        "title": [
+            "Synthese: Soz. Beschäftigte je LK nach WZ und Jahr (alle Jahre von 2012 bis 2035), Szenario Digitalisierung",
+            "Synthesis: Social Employees per District according to WZ2008 and Year 2012 - 2035 (German Districts)"
+        ],
+        "description": [
+            "Synthese: Sozialversicherungspflichtig Beschäftigte je Landkreis differenziert nach Wirtschaftszweig für die Jahre 2012 bis 2035, Szenario Digitalisierung. Berechnung basiert auf den Beschäftigten nach id_spatial = 20 und der Entwicklung der Einwohnerzahl nach id_spatial = 26 um alle Jahre von 2012 bis 2035 abbilden zu können. ",
+            "Synthesis: Employees per district by economic sector for all years from 2012 to 2035, scenario digitalisation. Calculation based on employees according to id_spatial = 20 and the development of the population according to id_spatial = 26"
+        ]
+    },
+    "35": {
+        "title": [
+            "Gasverbrauch der privaten Haushalte",
+            "Gas consumptoin of private households"
+        ],
+        "description": [
+            "Anwendungsbilanzen 2008 bis 2017 für den Sektor der Privaten Haushalte in Deutschland, Teilmenge Gasverbrauch",
+            "Statistics on household gas consumption for the years 2008 to 2016"
+        ]
+    },
+    "36": {
+        "title": [
+            "Warmwasserbereitstellung nach Energieträger",
+            "Hot water supply according to energy source"
+        ],
+        "description": [
+            "Energieverbrauch Kochen: Anteil Strom und Gas und Nutzungsgrad je Bundesland",
+            "Cooking energy consumption: Share of electricity and gas and degree of utilization"
+        ]
+    },
+    "37": {
+        "title": [
+            "Warmwasserbereitstellung nach Energieträger",
+            "Hot water supply according to energy source"
+        ],
+        "description": [
+            "Berechnung zur Warmwasserbereitstellung nach Energieträger. Basiert auf BDEW-Studie \"Wie heizt Deutschland?\". Differenzierung nach zentraler Bereitstellung sowie dezentraler Bereitstellung nach Energieträger (Strom, Gas, weitere)",
+            "Calculation for hot water supply by energy source. Based on BDEW study \"Wie heizt Deutschland?\". Breakdown by central supply and decentralized supply according to energy source (electricity, gas, other)"
+        ]
+    },
+    "38": {
+        "title": [
+            "Umweltökonomische Gesamtrechnung, Tabelle 3.2.3.4",
+            "Environmental-Economic Accounts, table 3.2.3.4"
+        ],
+        "description": [
+            "Umweltnutzung und Wirtschaft: Tabellen zu den Umweltökonomische Gesamtrechnungen, Teil 2: Energie, Tabelle 3.2.3.4: Verwendung von Energie nach Energieträgern und Produktionsbereichen 2015 (Inländerkonzept)",
+            "Environmental use and economy: Tables on Environmental-Economic Accounts, Part 2: Energy, Table 3.2.3.4: Use of energy by energy source and production sector in 2015 (national concept)"
+        ]
+    },
+    "39": {
+        "title": [
+            "Fläche des Landkreises",
+            "Area of the district"
+        ],
+        "description": [
+            "Fläche des Landkreises in km²; Berechnet auf Basis der Verwaltungsgrenzen des BKG",
+            "Area of the district in km²; Calculation based on the administrative areas (BKG)"
+        ]
+    },
+    "40": {
+        "title": [
+            "Raumordnungsprognose 2030 - Anzahl der Haushalte",
+            "Population Forecast 2030 - Number of Households"
+        ],
+        "description": [
+            "Raumordnungsprognose 2030 - Anzahl der Haushalte",
+            "Population Forecast 2030 - Number of Households"
+        ]
+    },
+    "41": {
+        "title": [
+            "Raumordnungsprognose 2030 - Anzahl der Haushalte nach Haushaltsgröße",
+            "Population Forecast 2030 - Number of Households by Household Size"
+        ],
+        "description": [
+            "Raumordnungsprognose 2030 - Anzahl der Haushalte nach Haushaltsgröße",
+            "Population Forecast 2030 - Number of Households by Household Size"
+        ]
+    },
+    "42": {
+        "title": [
+            "Raumordnungsprognose 2030 - Erwerbspersonen",
+            "Population Forecast 2030 - Labor Force"
+        ],
+        "description": [
+            "Raumordnungsprognose 2030 - Erwerbspersonen",
+            "Population Forecast 2030 - Labor Force"
+        ]
+    },
+    "43": {
+        "title": [
+            "Raumordnungsprognose 2030 - Bevölkerung nach Alter, 1990..2030 (Landkreise)",
+            "Population Forecast 2030 - Population by Age, 1990..2030 (German Districts)"
+        ],
+        "description": [
+            "Raumordnungsprognose 2030 - Bevölkerung nach Alter",
+            "Population Forecast 2030 - Population by Age"
+        ]
+    },
+    "44": {
+        "title": [
+            "Raumordnungsprognose 2030 - Erwerbspersonen nach Alter",
+            "Population Forecast 2030 - Labor Force by Age"
+        ],
+        "description": [
+            "Raumordnungsprognose 2030 - Erwerbspersonen nach Alter",
+            "Population Forecast 2030 - Labor Force by Age"
+        ]
+    },
+    "45": {
+        "title": [
+            "Verfügbares Einkommen",
+            "Disposable income"
+        ],
+        "description": [
+            "Regionalstatistik Tabelle 82411-01-03-4: Verfügbares Einkommen der privaten Haushalte einschließlich privater Organisationen ohne Erwerbszweck.",
+            "Disposable income of households including non-profit institutions serving households"
+        ]
+    },
+    "46": {
+        "title": [
+            "Bevölkerungsprognose 2060 (Bundesländer)",
+            "Population Forecast 2060 (Federal States)"
+        ],
+        "description": [
+            "Verschiedene Fortschreibungsvarianten der Bevölkerungszahlen bis 2060 auf Bundeslandesebene ",
+            "Different variants of the forecast of the population up to 2060 on federal state level"
+        ]
+    },
+    "47": {
+        "title": [
+            "IWU Deutsche Wohngebäudetypologie Mannheim; Energieverbrauch",
+            "IWU TABULA bulding typologies Mannheim; energy consumption"
+        ],
+        "description": [
+            "IWU Deutsche Wohngebäudetypologie Mannheim, korrigiert auf Niveau von Verbrauchswerten",
+            "IWU TABULA bulding typologies Mannheim, energy consumption"
+        ]
+    },
+    "52": {
+        "title": [
+            "Raumordnungsprognose 2030, Fortschreibung bis 2060 - Erwerbspersonen nach Alter",
+            "Population Forecast 2030 - Labor Force by Age"
+        ],
+        "description": [
+            "Raumordnungsprognose 2030, Fortschreibung bis 2060 - Erwerbspersonen nach Alter",
+            "Population Forecast 2060 - Labor Force by Age"
+        ]
+    },
+    "53": {
+        "title": [
+            "Synthese: Stromverbrauch der Industrie je Wirtschaftszweig (WZ2008)",
+            "Synthesis: Industrial electricity consumption per economic sector (WZ2008)"
+        ],
+        "description": [
+            "Synthese fehlender Daten zu: Erhebung über die Energieverwendung der Betriebe des Verarb. Gewerbes sowie des Bergbaus und der Gewinnung von Steinen und Erden; Tabelle 2: Energieverbrauch nach Energieträgern: Stromverbrauch je Wirtschaftszweig (WZ2008)",
+            "Synthesis of missing data: Survey on the use of energy in manufacturing, mining and quarrying; Table 2: Energy consumption by energy source: electricity consumption per economic sector (WZ2008)"
+        ]
+    },
+    "54": {
+        "title": [
+            "Synthese: Industrielle Stromerzeugung",
+            "Synthesis: Industrial power generation"
+        ],
+        "description": [
+            "Fachserie 4 / Reihe 6.4: Stromerzeugungsanlagen der Betriebe im Bergbau und im Verarbeitenden Gewerbe",
+            "Fachserie 4 / Reihe 6.4: Power generation plants of mining and industry"
+        ]
+    },
+    "55": {
+        "title": [
+            "Stromverbrauch der Haushalte nach Haushaltsgroesse, 1990..2060 (Landkreise)",
+            "Household Electricity Consumption by Household Size, 1990..2060 (Germand Districts)"
+        ],
+        "description": [
+            "Stromverbrauch der Haushalte insgesamt und nach Haushaltsgroesse auf Landkreisebene",
+            "Household Electricity Consumption Total and by Household Size at district level"
+        ]
+    },
+    "56": {
+        "title": [
+            "IWU Deutsche Wohngebäudetypologie; Energieverbrauch für alle Landkreise und verschiedene Jahre",
+            "IWU TABULA bulding typologies Mannheim; nergy consumption for all districts and different years"
+        ],
+        "description": [
+            "IWU Deutsche Wohngebäudetypologie Mannheim, korrigiert auf Niveau von Verbrauchswerten\nBasierend auf den Wetterdaten des DWD wurde die Netto-Heizwärme für alle Landkreise für die Jahre 2006-2018 berechnet.",
+            "IWU TABULA bulding typologies Mannheim, energy consumption; Based on the weather data of the DWD, the net heating energy for all districts was calculated for the years 2006-2018."
+        ]
+    },
+    "57": {
+        "title": [
+            "Wohnfläche nach Heizstruktur, Gebäudetyp, Baualter (Landkreise)",
+            "Living space according to heating structure, building type, building age (district level)"
+        ],
+        "description": "Living space according to heating structure, building type, building age at district level as of 31.12. of the respective year"
+    },
+    "58": {
+        "title": [
+            "Energetischer und nicht-energetischer Einsatz von Brennstoffen in der Industrie",
+            "Energy and non-energy related application of fuels in industry"
+        ],
+        "description": [
+            "Erhebung über die Energieverwendung (energetisch und nicht-energetisch) der Betriebe des Verarb. Gewerbes sowie des Bergbaus und der Gewinnung von Steinen und Erden; Tabelle 2: Energieverbrauch nach Energieträgern",
+            "Statistical data on energy application (energy and non-energy related) in industry, mining and quarrying; Table 2: Energy consumption by energy source"
+        ]
+    },
+    "59": {
+        "title": [
+            "Energiebilanzen der Länder",
+            "Energy balances of the German federal states"
+        ],
+        "description": [
+            "Energiebilanzen der Länder vom Länderarbeitskreis Energiebilanzen (LAK)",
+            "Energy balances of the German federal states. Published by the working group on Energy Balances (LAK)"
+        ]
+    },
+    "60": {
+        "title": [
+            "Wohngebäudeklassen nach Altbauanteil",
+            "Residential building classes according to the proportion of old buildings"
+        ],
+        "description": [
+            "Landkreise klassifiziert nach Altbauanteil; Als Altbau gelten hier die Gebäude mit Baujahr < 1979\nDaten stammen vom Zensus 2011 (/DESTATIS-03 13/ Daten des Zensus aus dem Themenbereich Gebäude; statistik.t_zensus_gebaeude) und wurden auf die Landkreise zum Stand 01.01.2016 konvertiert.\n\nAltbauanteil\t\tKlasse\n0.855 - 1    \t\t1\n0.805 - 0.855\t\t2\n0.755 - 0.805\t\t3\n0.705 - 0.755\t\t4\n0.655 - 0.705\t\t5\n0.605 - 0.655\t\t6\n0.555 - 0.605\t\t7\n0.505 - 0.555\t\t8\n0.455 - 0.505\t\t9\n0.405 - 0.455\t\t10\n0. - 0.405   \t\t11",
+            "Districts classified according to the proportion of old buildings; buildings constructed < 1979 are considered as old buildings. \nData from the 2011 census (/DESTATIS-03 13/; statistik.t_zensus_gebaeude), converted to the districts as of 01.01.2016.\n"
+        ]
+    },
+    "61": {
+        "title": [
+            "Anteil Wohnfläche EFH MFH",
+            "Share of living space in single family houses / appartment buldings"
+        ],
+        "description": [
+            "Anteil von EFH bzw. MFH an der gesamten Wohnfläche je Landkreis; Anteil MFH ergibt sich aus 1 - Anteil_EFH",
+            "Share of living space in single family houses / appartment buldings"
+        ]
+    },
+    "62": {
+        "title": [
+            "AGEB Energiebilanz, 2015",
+            "AGEB energy balances, 2015"
+        ],
+        "description": [
+            "AGEB Energiebilanzen von https://ag-energiebilanzen.de/7-0-Bilanzen-1990-2017.html (05.02.2020)\nyear = 2015 entspricht \"Bilanz 2015 (Bearbeitungsstand 10.08.2017)\"",
+            "AGEB energy balances, https://ag-energiebilanzen.de/7-0-Bilanzen-1990-2017.html (20202-02-05). "
+        ]
+    },
+    "63": {
+        "title": [
+            "Umweltökonomische Gesamtrechnung, Tabelle 3.2.3.5",
+            "Environmental-Economic Accounts, table 3.2.3.5"
+        ],
+        "description": [
+            "Umweltnutzung und Wirtschaft: Tabellen zu den Umweltökonomische Gesamtrechnungen, Teil 2: Energie, Tabelle 3.2.3.5: Verwendung von Energie nach Energieträgern und Produktionsbereichen 2017 (Inländerkonzept)",
+            "Environmental use and economy: Tables on Environmental-Economic Accounts, Part 2: Energy, Table 3.2.3.5: Use of energy by energy source and production sector in 2017 (national concept)"
+        ]
+    },
+    "64": {
+        "title": [
+            "Stromverbrauch im Sektor GHD je LK und WZ (WZ2008)",
+            "Electricity consumption in the cts-sector  (commercial, trade, service) per district and WZ (WZ2008)"
+        ],
+        "description": [
+            "Stromverbrauch im Sektor GHD je LK und WZ (WZ2008)",
+            "Electricity consumption in the cts-sector  (commercial, trade, service) per district and WZ (WZ2008)"
+        ]
+    },
+    "65": {
+        "title": [
+            "Stromverbrauch je Sektor und LK 2017",
+            "Electricity consumption per sector and district 2017"
+        ],
+        "description": [
+            "Stromverbrauch der Sektoren private Haushalte, GHD und Industrie je Landkreis. Zusammenfassung der Ergebnisse aus id_spatial in (25, 64, 55), Anpassung des gesamten Verbrauchs zwischen Umweltökonomischer Gesamtrechnung und BMWi Energiedaten für den Sektor GHD. ",
+            "Electricity consumption of the sectors private households, cts and industry per district. Summary of the results from id_spatial in (25, 64, 55), total consumption for the sector cts is adjusted from Environmental Economic Accounting to BMWi energy data "
+        ]
+    },
+    "66": {
+        "title": [
+            "Sozialversicherungspflichtig Beschäftigte nach Wirtschaftszweigen, Szenario Basis und Digitalisierung",
+            "Forecast of employees by economic sectors, scenario 'Basis' and 'Digitalisation'"
+        ],
+        "description": "Change in number of employees per district (2014..2030), scenario 'Basis' and 'Digitalization'; based on the BMAS study: 'Arbeitsmarkt 2030 - Wirtschaft und Arbeitsmarkt im digitalen Zeitalter'"
+    },
+    "67": {
+        "title": "Anzahl Haushalte nach Haushaltsgröße (Gemeindeebene)",
+        "description": "No description available"
+    },
+    "68": {
+        "title": "Stromverbrauch der Haushalte nach Haushaltsgroesse (Gemeindeebene)",
+        "description": "No description available"
+    },
+    "69": {
+        "title": [
+            "Sozialversicherungspflichtig Beschäftigte je Gemeinde",
+            "Employees subject to social insurance per municipality"
+        ],
+        "description": [
+            "Sozialversicherungspflichtig Beschäftigte je Gemeinde (Regionalstatistik Tabelle 13111-08-02). Fehlende Daten wurden basierend auf: 1. historischen Werte; 2. Summe je Landkreis; 3. Einwohnerzahl berechnet. ",
+            "Employees subject to social insurance per municipality (Regionalstatistik table 13111-08-02). Missing data has been calculated based on: 1. historical values; 2. total per district; 3. number of inhabitants. "
+        ]
+    },
+    "70": {
+        "title": [
+            "Stromverbrauch je Sektor und Gemeinde",
+            "Electricity consumption per sector and community"
+        ],
+        "description": [
+            "Sozialversicherungspflichtig Beschäftigte je Gemeinde (Regionalstatistik Tabelle 13111-08-02). Fehlende Daten wurden basierend auf: 1. historischen Werte; 2. Summe je Landkreis; 3. Einwohnerzahl berechnet. ",
+            "Employees subject to social insurance per municipality (Regionalstatistik table 13111-08-02). Missing data has been calculated based on: 1. historical values; 2. total per district; 3. number of inhabitants. "
+        ]
+    },
+    "71": {
+        "title": [
+            "Umweltökonomische Gesamtrechnung, Tabelle 3.2.3.5, 2000..2017",
+            "Environmental-Economic Accounts, table 3.2.3.5, 2000..2017"
+        ],
+        "description": [
+            "Umweltnutzung und Wirtschaft: Tabellen zu den Umweltökonomische Gesamtrechnungen, Teil 2: Energie, Tabelle 3.2.3.5: Verwendung von Energie nach Energieträgern und Produktionsbereichen (Inländerkonzept). Zusammenführung von id_spatial 38 und 63. Interpolierte Werte zwischen den Jahren 2000, 2005, 2010, 2015 und 2016.",
+            "Environmental use and economy: Tables on Environmental-Economic Accounts, Part 2: Energy, Table 3.2.3.5: Use of energy by energy source and production sector in 2017 (national concept). Merging of id_spatial 38 and 63. Interpolated values between the years 2000, 2005, 2010, 2015 and 2016"
+        ]
+    }
+}

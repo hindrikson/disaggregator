@@ -1,3 +1,6 @@
+# This project is sofar a fork from https://github.com/DemandRegioTeam/disaggregator
+This code was has been updated to work with the opendata api: https://opendata.ffe.de/how-to/
+ 
 # DemandRegio
 
 This project aims at setting up both a database and a python toolkit called `disaggregator` for

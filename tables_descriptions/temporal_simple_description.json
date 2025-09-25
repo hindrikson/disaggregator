@@ -1,0 +1,312 @@
+{
+    "1": {
+        "title": [
+            "Wochentage im Jahr in stündlicher Auflösung.",
+            "Weekdays in the Year in Hourly Resolution."
+        ],
+        "description": [
+            "Wochentage im Jahr (Montag=1..Sonntag=7 => isodow) in stündlicher Auflösung.",
+            "Weekdays in the year (Monday=1..Sunday=7 => isodow) in hourly resolution."
+        ]
+    },
+    "2": {
+        "title": [
+            "Meteorologische Jahreszeiten in stündlicher Auflösung",
+            "Meteorological Seasons in Hourly Resolution"
+        ],
+        "description": [
+            "Meteorologische Jahreszeiten (Dez-Feb: 1, Mrz-Mai: 2, Jun-Aug: 3, Sep-Nov: 4) in stündlicher Auflösung",
+            "Meteorological seasons (Dec-Feb: 1, March-May: 2, Jun-Aug: 3, Sep-Nov: 4) in hourly resolution"
+        ]
+    },
+    "3": {
+        "title": [
+            "Stunde des Tages",
+            "Hour of the day"
+        ],
+        "description": [
+            "Stunde des Tages (mit Zeitumstellung).",
+            "hour of the day (including time changeover)."
+        ]
+    },
+    "4": {
+        "title": [
+            "Standardlastprofil (H0) der privaten Haushalte in viertelstündlicher Auflösung.",
+            "Standard load profile (H0) of private households in quarter-hourly resolution."
+        ],
+        "description": [
+            "Standardlastprofil (H0) der privaten Haushalte in viertelstündlicher Auflösung. ",
+            "Standard load profile (H0) of private households in quarter-hourly resolution."
+        ]
+    },
+    "5": {
+        "title": [
+            "Standardlastprofil (H0) der privaten Haushalte in stündlicher Auflösung.",
+            "Standard load profile (H0) of private households in hourly resolution"
+        ],
+        "description": [
+            "Standardlastprofil (H0) der privaten Haushalte in stündlicher Auflösung. Stundenwerte werden aus dem Mittelwert der vier Viertelstundenwerte gebildet. ",
+            "Standard load profile (H0) of private households in hourly resolution. Hourly values are calculated from the average of the four quarter-hourly values."
+        ]
+    },
+    "6": {
+        "title": [
+            "Lastgang (H0) der privaten Haushalte in stündlicher Auflösung.",
+            "Load profile (H0) of private households in hourly resolution"
+        ],
+        "description": [
+            "Beispielhafte Modellierung des normierten Lastgangs der privaten Haushalte.  Ausgangsbasis SLP H0, keine Jahreszeitliche Dynamisierung. Aneinanderreihung ohne Berücksichtigung der Feiertage.",
+            "Modelling of the standardised load profile of private households.  Based on SLP H0, no seasonal dynamization. Sequencing without consideration of public holidays."
+        ]
+    },
+    "7": {
+        "title": [
+            "Lastgang (H0) der privaten Haushalte in stündlicher Auflösung.",
+            "Load profile (H0) of private households in hourly resolution"
+        ],
+        "description": [
+            "Beispielhafte Modellierung des Lastgangs der privaten Haushalte.  Ausgangsbasis SLP H0, keine Jahreszeitliche Dynamisierung. Aneinanderreihung ohne Berücksichtigung der Feiertage. Skalierung mit Verbrauch (id_spatial=4)",
+            "Modelling of the timeseries of load (private households).  Based on SLP H0, no seasonal dynamization. Sequencing without consideration of public holidays. Timeseries of load multiplied with energy consumption (id_spatial=4)"
+        ]
+    },
+    "8": {
+        "title": "Time Series of Global Radiation on a Horizontal Plane in Hourly Resolution (German Districts)",
+        "description": "Global radiation on horizontal plane in hourly resolution at district level based on radiation data of the Copernicus Atmosphere Monitoring Service (CAMS)."
+    },
+    "9": {
+        "title": [
+            "Tag des Jahres in stündlicher Auflösung",
+            "Day of the Year in Hourly Resolution"
+        ],
+        "description": [
+            "Tag des Jahres (1..365/366) in stündlicher Auflösung (mit Zeitumstellung)",
+            "Day of the year (1..356/366) in hourly resolution (with time change)"
+        ]
+    },
+    "10": {
+        "title": [
+            "Dynamisierungsfunktion für das Standardlastprofil H0",
+            "Dynamization Function for the Standard Load Profile H0"
+        ],
+        "description": [
+            "Dynamisierungsfunktion für das SLP H0. Werte in stündlicher Auflösung (Real: Tageswerte)",
+            "Dynamization function for the standard load profile H0 (id_spatial=5). Values in hourly resolution."
+        ]
+    },
+    "11": {
+        "title": [
+            "Außentemperatur",
+            "Temperatur (outdoor)"
+        ],
+        "description": [
+            "Außentemperatur, Landkreise; basierend auf Mittelpunkt der Region",
+            "Temperatur (outdoor), districts; center of the region"
+        ]
+    },
+    "12": {
+        "title": [
+            "Außentemperatur",
+            "Temperatur (outdoor)"
+        ],
+        "description": [
+            "Außentemperatur, Landkreise; basierend auf basierend auf größter Siedlung der Region",
+            "Temperatur (outdoor), districts; center of largest settlement in the region"
+        ]
+    },
+    "13": {
+        "title": [
+            "Sonnenhöhe",
+            "Sun elevation"
+        ],
+        "description": [
+            "Sonnenhöhe, Landkreise: Berechnung basierd auf größter Siedlung der Region",
+            "Sun elevation, district: Calculation based on largest settlement in the region"
+        ]
+    },
+    "14": {
+        "title": [
+            "Indikator für den Beleuchtungsbedarf",
+            "Indicator of illumination demand"
+        ],
+        "description": [
+            "Indikator für den Beleuchtungsbedarf, Landkreise; basierend auf größter Siedlung der Region und Sonnenhöhe (id_temporal = 14) als Schwellwert, Beleuchtung 1/0 = ja/nein",
+            "Indicator of illumination demand, districts; based on largest settlement in the region and sun elevation (id_temporal = 14) as threshold value, lighting 1/0 = yes/no"
+        ]
+    },
+    "15": {
+        "title": [
+            "Grundlastanteil für verschiedene Anwendungen im Sektor private Haushalte",
+            "Share of base load for residential applications"
+        ],
+        "description": [
+            "Sektor Private Haushalte: Grundlastanteil für verschiedene Anwendungen (Licht, Kochen, Spülen, ... Umwälzpumpe, Gefrieren) differenziert nach Haushaltsgröße.",
+            "Private households sector: Base load share for various applications (lighting, cooking, washing up, ... circulation pump, freezing) differentiated by household size."
+        ]
+    },
+    "16": {
+        "title": [
+            "Sektor Private Haushalte: Anteil verschiedener Anwendungen am Stromverbrauch",
+            "Residential sector: Share of different applications on the electricity consumption"
+        ],
+        "description": [
+            "Sektor Private Haushalte: Anteil verschiedener Anwendungen (Licht, Kochen, Spülen, ... Umwälzpumpe, Gefrieren) am Stromverbrauch; differenziert nach Haushaltsgröße.",
+            "Residential sector: Share of various applications (lighting, cooking, washing up, ... circulation pump, freezing) on the electricity consumption; differentiated according to household size."
+        ]
+    },
+    "17": {
+        "title": "Time Series of Global Radiation on a Horizontal Plane in Quarter-Hour Resolution (German Districts)",
+        "description": "Global radiation on horizontal plane in quarter-hourly resolution at district level based on radiation data of the Copernicus Atmosphere Monitoring Service (CAMS)."
+    },
+    "18": {
+        "title": [
+            "Ferienzeiten",
+            "Holiday times"
+        ],
+        "description": [
+            "Zeitstrahl mit Ferien in stündlicher Auflösung. \nWert 1 = Herbstferien\nWert 2 = Weihnachtsferien\nWert 3 = Winterferien\nWert 4 = Ostern/Fruehjahr\nWert 5 = Himmelfahrt/Pfingsten\nWert 6 = Sommer\nQuelle: https://www.kmk.org/service/ferien.html\nHinweis 1: im ersten und letzten Jahr fehlen Ferienzeiten, da Schuljahre != Kalenderjahre\nHinweis 2: Die Daten werden je Landkreis bereitgestellt. Alle Landkreise eines Bundeslands sind jedoch identisch. ",
+            "Timeline with holidays in hourly resolution. \nValue 1 = autumn holidays\nValue 2 = Christmas holidays\nvalue 3 = winter holidays\nValue 4 = Easter/spring\nValue 5 = Ascension/Whitsun\nvalue 6 = summer\nSource: https://www.kmk.org/service/ferien.html\nNote 1: in the first and last year there are no holidays, because school years != calendar years\nNote 2: The data are provided per district. However, all districts of a federal state are identical."
+        ]
+    },
+    "19": {
+        "title": [
+            "Feiertage in stündlicher Auflösung",
+            "Holidays in Hourly Resolution"
+        ],
+        "description": [
+            "Feiertage (Feiertag: 1; kein Feiertag: 0) in stündlicher Auflösung",
+            "Holidays (holiday: 1; no holiday: 0) in hourly resolution"
+        ]
+    },
+    "20": {
+        "title": [
+            "Standardlastprofil (G0) Gewerbe in viertelstündlicher Auflösung.",
+            "Standard load profile (G0) commercial/trade/service in quarter-hourly resolution."
+        ],
+        "description": [
+            "Standardlastprofil (G0) Gewerbe in viertelstündlicher Auflösung.",
+            "Standard load profile (G0) commercial/trade/service in quarter-hourly resolution."
+        ]
+    },
+    "21": {
+        "title": [
+            "Standardlastprofil (G0) Gewerbe in stündlicher Auflösung.",
+            "Standard load profile (G0) commercial/trade/service in hourly resolution."
+        ],
+        "description": [
+            "Standardlastprofil (G0) Gewerbe in stündlicher Auflösung. Stundenwerte werden aus dem Mittelwert der vier Viertelstundenwerte gebildet. ",
+            "Standard load profile (H0) of commercial/trade/service in hourly resolution. Hourly values are calculated from the average of the four quarter-hourly values."
+        ]
+    },
+    "22": {
+        "title": [
+            "Lastgang (G0) Gewerbe in stündlicher Auflösung.",
+            "Timeseries of load (G0) commercial/trade/service in hourly resolution."
+        ],
+        "description": [
+            "Beispiel für die Modellierung des Lastgangs (G0) Gewerbe in stündlicher Auflösung.",
+            "Modelling of timeseries load (G0) commercial/trade/service in hourly resolution. Based on SLP G0. "
+        ]
+    },
+    "23": {
+        "title": [
+            "Lastgang der privaten Haushalte nach H0 (1 Jahr, in stündlicher Auflösung, normiert)",
+            "Residential: Timeseries of load according to H0 (1 year, in hourly resolution, normalized)\n"
+        ],
+        "description": [
+            "Standardlastprofil (H0) der privaten Haushalte (1 Jahr in stündlicher Auflösung)\nStundenwerte werden aus dem Mittelwert der vier Viertelstundenwerte gebildet. \nJahresverlauf basiert auf Wochentagen und Feiertagen (id_temporal in (1,19))\nmit Jahreszeitlicher Dynamisierung. Aneinanderreihung der Typtage berücksichtigt auch Feiertage.",
+            "Residential: Timeseries of electric load (H0, 1 year with hourly resolution)\n- Hourly values are calculated from the average of the four quarter-hourly values. \n- Year is based on weekdays and public holidays (id_temporal in (1,19))\n- seasonal Dynamization function (id_temporal=10)"
+        ]
+    },
+    "25": {
+        "title": [
+            "Normierte Stromlastgänge privater Haushalte in stündlicher Auflösung (Landkreis)",
+            "Normalised Electricity Load Profiles of Private Households in Hourly Resolution (German Districts)"
+        ],
+        "description": [
+            "Modellierung des normierten Stromlastgangs der privaten Haushalte in stündlicher Auflösung auf Landkreisebene. Ausgangsbasis SLP H0, Jahreszeitliche Dynamisierung. Berücksichtigung der Feiertage.",
+            "Modelling of the normalised electricity load profiles of private households in hourly resolution at district level. Starting point SLP H0, seasonal dynamisation. Consideration of public holidays."
+        ]
+    },
+    "26": {
+        "title": [
+            "Stromverbrauch privater Haushalte in stündlicher Auflösung (Landkreis)",
+            "Electricity Consumption of Private Households in Hourly Resolution (German Districts)"
+        ],
+        "description": [
+            "Normierte Stromlastgänge privater Haushalte (id_temoral=25) multipliziert mit deren Jahresverbrauch (id_spatial=55) auf Landkreisebene.",
+            "Normalised electricity load profilers of private households (id_temoral=25) multiplied by their annual consumption (id_spatial=55) at district level"
+        ]
+    },
+    "27": {
+        "title": "BGW 2006 Stundenwerte",
+        "description": "No description available"
+    },
+    "28": {
+        "title": "Jahreslastgänge Gas (stündl. Auflösung)",
+        "description": "No description available"
+    },
+    "29": {
+        "title": "Time Series of Surface Net Downward Shortwave Flux in hourly Resolution; MERRA-2 (German Districts)",
+        "description": "Surface Net Downward Shortwave Flux based on data of MERRA-2 (Modern-Era Retrospective analysis for Research and Applications, Version 2). https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/"
+    },
+    "30": {
+        "title": [
+            "Stromverbrauch GHD in viertelstündlicher Auflösung (Landkreis)",
+            "Electricity Consumption of CTS sector in Quarter-hourly Resolution (German Districts)"
+        ],
+        "description": [
+            "Normierte Stromlastgänge der GHD multipliziert mit deren Jahresverbrauch auf Landkreisebene.",
+            "Normalised electricity load profilers of CTS sector multiplied by their annual consumption at district level"
+        ]
+    },
+    "31": {
+        "title": [
+            "Stromverbrauch der Industrie in viertelstündlicher Auflösung (Landkreis)",
+            "Electricity Consumption of Industry sector in Quarter-hourly Resolution (German Districts)"
+        ],
+        "description": [
+            "Normierte Stromlastgänge der Industrie multipliziert mit deren Jahresverbrauch auf Landkreisebene.",
+            "Normalised electricity load profilers of Industry sector multiplied by their annual consumption at district level"
+        ]
+    },
+    "32": {
+        "title": [
+            "Gasverbrauch GHD in stündlicher Auflösung (Landkreis)",
+            "Gas Consumption of CTS sector in Hourly Resolution (German Districts)"
+        ],
+        "description": [
+            "Normierte Gaslastgänge der GHD multipliziert mit deren Jahresverbrauch auf Landkreisebene.",
+            "Normalised gas load profilers of CTS sector multiplied by their annual consumption at district level"
+        ]
+    },
+    "33": {
+        "title": [
+            "Gasverbrauch der Industrie in viertelstündlicher Auflösung (Landkreis)",
+            "Gas Consumption of Industry sector in Quarter-hourly Resolution (German Districts)"
+        ],
+        "description": [
+            "Normierte Gaslastgänge der Industrie multipliziert mit deren Jahresverbrauch auf Landkreisebene.",
+            "Normalised gas load profilers of Industry sector multiplied by their annual consumption at district level"
+        ]
+    },
+    "34": {
+        "title": [
+            "Stromverbrauch der Industrie aus Netzbezug in viertelstündlicher Auflösung (Landkreis)",
+            "Electricity Consumption of Industry sector obtained from grid in Quarter-hourly Resolution (German Districts)"
+        ],
+        "description": [
+            "Normierte Stromlastgänge der Industrie multipliziert mit deren Jahresverbrauch aus Netzbezug auf Landkreisebene.",
+            "Normalised electricity load profilers of Industry sector multiplied by their annual consumption obtained from grid at district level"
+        ]
+    },
+    "35": {
+        "title": [
+            "Gasverbrauch der Industrie ohne Verbrauch zur Stromeigenerzeugung in viertelstündlicher Auflösung (Landkreis)",
+            "Gas Consumption of Industry sector without consumption for self-generation of electricity in Quarter-hourly Resolution (German Districts)"
+        ],
+        "description": [
+            "Normierte Gaslastgänge der Industrie multipliziert mit deren Jahresverbrauch (ohne Verbrauch zur Stromeigenerzeugung) auf Landkreisebene.",
+            "Normalised gas load profilers of Industry sector multiplied by their annual consumption (without consumption for self-generation of electricity) at district level"
+        ]
+    }
+}
